@@ -1,0 +1,23 @@
+{
+  "name": "practice-writing-unittests-diviyaiswariyak",
+  "version": "1.0.0",
+  "description": "",
+  "main": "cart.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kdiviya/practice-writing-unitTests-DiviyaiswariyaK.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kdiviya/practice-writing-unitTests-DiviyaiswariyaK/issues"
+  },
+  "homepage": "https://github.com/kdiviya/practice-writing-unitTests-DiviyaiswariyaK#readme",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
